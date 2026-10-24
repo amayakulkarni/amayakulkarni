@@ -6,7 +6,7 @@
 
 [![Website](https://img.shields.io/badge/Portfolio-amayakulkarni.com-ff8395?style=flat-square&logo=google-chrome&logoColor=white)](https://amayakulkarni.com)
 [![Studio](https://img.shields.io/badge/Studio-veronami.com-505793?style=flat-square&logo=firefox-browser&logoColor=white)](https://veronami.com)
-[![Closet Republic](https://img.shields.io/badge/Studio-veronami.com-505793?style=flat-square&logo=firefox-browser&logoColor=white)](https://closetrepublic.com)
+[![Closet Republic](https://img.shields.io/badge/Blog-closetrepublic.com-505793?style=flat-square&logo=firefox-browser&logoColor=white)](https://closetrepublic.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-amayakulkarni-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/amayakulkarni)
 [![Mail](https://img.shields.io/badge/Contact-amayakulkarni%40proton.me-6d4aff?style=flat-square&logo=protonmail&logoColor=white)](mailto:connect@amayakulkarni.com)
 
